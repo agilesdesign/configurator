@@ -1,0 +1,19 @@
+{
+    "name": "agilesdesign/configurator",
+    "description": "Config Editor Library for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Configurator\\": "src/Configurator/"
+        }
+    }
+}

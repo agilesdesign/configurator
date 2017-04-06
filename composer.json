@@ -1,0 +1,19 @@
+{
+    "name": "agilesdesign/configurator",
+    "description": "Configuration helper library for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "require": {
+        "php": "7.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Configurator\\": "src/Configurator"
+        }
+    }
+}
